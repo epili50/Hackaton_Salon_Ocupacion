@@ -1,9 +1,5 @@
 # Hackaton_Salon_Ocupacion
 Prueba técnica para el salón de Ocupacion de Barcelona 2024
-# Hackaton_Salon_Ocupacion
-Prueba técnica para el salón de Ocupacion de Barcelona 2024
-# Prueba-Tecnica-IT
-Prueba técnica IT para actualizar conocimiento sobre Data Science
 
 # Algoritmos de Aprendizaje Supervisado: Clasificación 
 Predicción sobre el turno en el que se producen accidentes de tránsito en Barcelona
